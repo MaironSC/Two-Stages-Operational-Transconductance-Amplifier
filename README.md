@@ -1,4 +1,4 @@
-# Two-Stage OperationalAmplifier
+# Two-Stage Operational TransconductancE Amplifier
 
 Offset[uV] = -288
 
